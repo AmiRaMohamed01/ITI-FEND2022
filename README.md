@@ -18,11 +18,11 @@ This course is a detailed 60 hour Front End Development course for beginners.
 
 ## Branches
 This project consists of five branches
-Lesson1.0
-Lesson2.0
-Lesson3.0
-Lesson4.0
-Lesson5.0
+lesson1.0
+lesson2.0
+lesson3.0
+lesson4.0
+lesson5.0
 
 
 ## Author
